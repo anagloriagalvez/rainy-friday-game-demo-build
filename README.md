@@ -8,6 +8,6 @@ This game was created in scope of the Game Development subject (Masarykova Unive
 
 **Target platform:** PC - Windows
 
-**Instructions to play:** Download all the files on the repository (make sure they are on the same folder) and double-click the "Rainy-Friday.exe" file.  
+**Instructions to play:** Download the .zip file from Google Drive link: https://drive.google.com/file/d/1Icmxz1VjnzfWy8I6MUwMGyph_s3CdQxT/view?usp=sharing, extract it anywhere on your PC and double-click the "Rainy-Friday.exe" file.  
 
 **Authors:** Ana Gloria Gálvez Mellado, Guillem Barceló Orts  
